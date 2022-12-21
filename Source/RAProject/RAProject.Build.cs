@@ -14,6 +14,7 @@ public class RAProject : ModuleRules
 			"Engine",
 			"InputCore",
 			"GameFeatures",
+            "GameplayTags",
             "ModularGameplay"}
         );
 
