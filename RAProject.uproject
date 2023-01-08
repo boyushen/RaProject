@@ -35,6 +35,10 @@
 		{
 			"Name": "ModularGameplay",
 			"Enabled": true
+		},
+		{
+			"Name": "ControlFlows",
+			"Enabled": true
 		}
 	]
 }

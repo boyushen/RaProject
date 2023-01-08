@@ -15,8 +15,9 @@ public class RAProject : ModuleRules
 			"InputCore",
 			"GameFeatures",
             "GameplayTags",
-            "ModularGameplay"}
-        );
+            "ModularGameplay",
+            "ControlFlows"
+        });
 
 		PrivateDependencyModuleNames.AddRange(new string[] {  });
         PrivateDependencyModuleNames.AddRange(
